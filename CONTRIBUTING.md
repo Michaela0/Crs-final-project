@@ -2,6 +2,8 @@
 
 Thank you for considering contributing to Coursera Final Project! We appreciate your interest and support. This document outlines the guidelines for contributing to our project.
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 ## Table of Contents
 
 - [How to Contribute](#how-to-contribute)
